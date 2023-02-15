@@ -1,0 +1,77 @@
+/* body */
+
+body{
+    display: flexbox;
+    background-color: rgb(19, 2, 39);
+    color: deeppink;
+    margin-left: 155px;
+}
+
+
+/* NAV */
+header {
+    display: flex;
+    width: 1400px;
+    max-width: 100%;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+.logo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 25px;
+    margin-left: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    font-size: x-large;
+    font-weight: bolder;
+}
+.logoimg {
+    max-width: 80px;
+    max-height: 80px;
+}
+.logotext{
+    color: pink;
+    text-decoration: none;
+}
+nav {
+    list-style-type: none;
+    font-family: 'Poppins', sans-serif;
+    font-size: large;
+    color: pink;
+}
+ul {
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+    padding: 20px;
+    overflow: hidden;
+}
+li {
+    text-decoration: none;
+    list-style-type: none;
+}
+li a { 
+    text-decoration: none;
+    padding: 10px;
+    color: pink;
+}
+
+/* INDEX*/
+
+/* picture animated */
+.animate__animated.animate__shakeY{
+    --animate-repeat: 2;
+    --animate-duration: 2s;
+  }
+
+  .main-title{
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+/* Animation */
+
+
+/* SVG */
