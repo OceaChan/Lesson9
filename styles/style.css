@@ -244,3 +244,20 @@ section {
     100% {left:0px; top:0px;}
 }
 /* SVG */
+
+.svgone{
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+}
+
+.d_background {
+    stroke: blue;
+    animation-name: diamondchange;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+@keyframes diamondchange {
+    from {stroke:  aqua;}
+    to {stroke:  blue;}
+}

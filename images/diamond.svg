@@ -1,0 +1,8 @@
+        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="305.962px" height="311.961px"  enable-background="new 0 0 305.962 311.961"
+	 xml:space="preserve">
+	 <symbol id="diamond" viewBox="0 0 305.962 311.961">
+     <svg width="500" height="500">
+            <polygon points="35,0 200,0 235,75 110,200 5,75" stroke-width="10" fill="none" stroke="" />
+            <polyline points="35,0 80,75 120,0 160,75 200,0 235,75 0,75 110,200 80,75 160,75 110,200" stroke-width="10" fill="none" stroke="" stroke-linejoin="round"></polyline>
+    </svg>
